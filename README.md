@@ -1,16 +1,11 @@
 # flutter_demo
 
-A new Flutter project.
+My first Flutter learning project. Tests Flutter reactive changes and good code practices in Dart.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Based on the tutorial available at [Your first Flutter app](https://codelabs.developers.google.com/codelabs/flutter-codelab-first#0). 
 
-A few resources to get you started if this is your first Flutter project:
+Some changed were made while following the tutorial, such as using functional programming (at favorite words screen) for learning its use in Dart. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Feel free to clone and experiment with this project!
